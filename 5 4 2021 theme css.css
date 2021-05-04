@@ -384,7 +384,7 @@ article {
 }
 
 p {
-   background-color: #000000;
+   background-color: rgb(var(--background));
 }
 
 /* Post header */
