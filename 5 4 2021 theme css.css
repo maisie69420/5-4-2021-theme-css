@@ -377,11 +377,14 @@ nav a {
 
 article {
   color: rgb(var(--title));
-  background-color: rgb(var(--background));
   word-wrap: break-word;
   padding: var(--post-vertical-spacing) var(--post-padding);
   margin-top: var(--post-margin);
   border-radius: 3px;
+}
+
+p {
+   background-color: #000000;
 }
 
 /* Post header */
